@@ -1,6 +1,6 @@
 FROM node:8
 
-EXPOSE 9999
+EXPOSE 8011
 
 ENV HOME /gatekeeper
 RUN mkdir ${HOME}
